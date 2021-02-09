@@ -45,7 +45,7 @@
                         </descriptorRefs>
                         <archive>
                             <manifest>
-                                <mainClass>Learning_Java.hw01-maven.HelloOtus</mainClass>
+                                <mainClass>Lesson1.HelloOtus</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
