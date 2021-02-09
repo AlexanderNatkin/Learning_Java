@@ -1,4 +1,4 @@
-package Lesson1;
+package lesson1;
 
 import com.google.common.collect.HashMultimap;
 import com.google.common.collect.Multimap;
